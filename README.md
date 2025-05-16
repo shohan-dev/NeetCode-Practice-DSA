@@ -1,12 +1,20 @@
 # 🚀 NeetCode Problem Solving Journey
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO_NAME)
+![GitHub Repo Stars](https://img.shields.io/github/stars/shohan-dev/NeetCode-Practice-DSA?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/shohan-dev/NeetCode-Practice-DSA?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/shohan-dev/NeetCode-Practice-DSA)
+![License](https://img.shields.io/github/license/shohan-dev/NeetCode-Practice-DSA)
+
 
 Welcome to my NeetCode Practice Repository! This is where I solve structured, categorized problems from [NeetCode](https://neetcode.io/practice) to strengthen my algorithm and data structure skills. Problems are implemented in **JavaScript**, **TypeScript**, **Python**, and more depending on context.
 
+## 🔗 Official Resources & Tools
+
+[![NeetCode](https://img.shields.io/badge/Practice-NeetCode-blue)](https://neetcode.io/practice)
+
+This repository follows the structured learning path from [NeetCode.io](https://neetcode.io/practice) - one of the best platforms for coding interview preparation with curated problem sets, video explanations, and an active community of problem solvers.
+
+> 💡 **Pro Tip:** Use the NeetCode roadmap alongside this repository to track your progress systematically through all DSA categories.
 ---
 
 ## 📚 Problem Categories
